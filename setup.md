@@ -23,7 +23,7 @@ recommend that these tools are installed (or at least downloaded) beforehand.
 > ## Getting an account on the HPC resource
 >
 > This lesson also requires that you have an account on the HPC resource. You
-> can request an account at [https://mokey.eessi-gpu.learnhpc.eu/auth/signup][[learnhpc-signup]].
+> can request an account at [https://mokey.eessi-gpu.learnhpc.eu/auth/signup][learnhpc-signup].
 > 
 > Remember to save the username/password you use, you will need it again!
 {: .prereq}
