@@ -20,6 +20,14 @@ recommend that these tools are installed (or at least downloaded) beforehand.
 > the ability to securely connect to a remote machine (`ssh`).
 {: .prereq}
 
+> ## Getting an account on the HPC resource
+>
+> This lesson also requires that you have an account on the HPC resource. You
+> can request an account at https://mokey.eessi-gpu.learnhpc.eu/auth/signup.
+> 
+> Remember to save the username/password you use, you will need it again!
+{: .prereq}
+
 ## Where to Type Commands: How to Open a New Shell
 
 The shell is a program that enables us to send commands to the computer and
