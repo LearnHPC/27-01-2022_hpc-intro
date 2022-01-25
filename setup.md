@@ -23,7 +23,7 @@ recommend that these tools are installed (or at least downloaded) beforehand.
 > ## Getting an account on the HPC resource
 >
 > This lesson also requires that you have an account on the HPC resource. You
-> can request an account at https://mokey.eessi-gpu.learnhpc.eu/auth/signup.
+> can request an account at [https://mokey.eessi-gpu.learnhpc.eu/auth/signup][[learnhpc-signup]].
 > 
 > Remember to save the username/password you use, you will need it again!
 {: .prereq}
@@ -285,6 +285,7 @@ See the PuTTY [documentation][putty-gen].
 
 <!-- links -->
 [git4win]: https://gitforwindows.org/
+[learnhpc-signup]: https://mokey.eessi-gpu.learnhpc.eu/auth/signup
 [mac-terminal]: https://www.macworld.co.uk/feature/mac-software/how-use-terminal-on-mac-3608274/
 [ms-wsl]: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 [ms-shell]: https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/ssh-remoting-in-powershell-core?view=powershell-7
